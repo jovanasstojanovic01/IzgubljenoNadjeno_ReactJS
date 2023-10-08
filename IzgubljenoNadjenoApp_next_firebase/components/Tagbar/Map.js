@@ -289,5 +289,4 @@ export default function Map(props) {
 }
 
 
-//AIzaSyDyQbX29X8S4-Jo18zodrggGP9uSTTKc2g -- PRAVI KLJUC
 
